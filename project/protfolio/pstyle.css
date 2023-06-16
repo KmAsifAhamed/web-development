@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.name {
+    color: orange;
+}
+.wsize {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.wsize > img {
+    width: 100%;
+}
